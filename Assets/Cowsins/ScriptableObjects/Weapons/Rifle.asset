@@ -46,7 +46,7 @@ MonoBehaviour:
   allowAim: 1
   aimDistance: 0.25
   aimingRotation: {x: 0, y: 0, z: 0}
-  aimingSpeed: 30
+  aimingSpeed: 35
   aimingFOV: 38
   allowAimingIfReloading: 0
   movementSpeedWhileAiming: 6
@@ -149,7 +149,7 @@ MonoBehaviour:
   applyDifferentRecoilOnAiming: 0
   xRecoilAmountOnAiming: 0
   yRecoilAmountOnAiming: 0
-  damagePerBullet: 2.8
+  damagePerBullet: 5
   applyDamageReductionBasedOnDistance: 0
   minimumDistanceToApplyDamageReduction: 0
   damageReductionMultiplier: 0

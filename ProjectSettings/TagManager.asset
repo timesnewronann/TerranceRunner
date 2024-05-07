@@ -11,6 +11,7 @@ TagManager:
   - Ramp
   - BodyShot
   - Ladder
+  - Target
   layers:
   - Default
   - TransparentFX
@@ -29,9 +30,9 @@ TagManager:
   - UITop
   - PostProcessing
   - Effects
-  - 
-  - 
-  - 
+  - WallRunWall
+  - Player
+  - Camera
   - 
   - 
   - 
